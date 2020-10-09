@@ -1,0 +1,4 @@
+*.json files are original Google Speech API responses
+*.csv files are transcripts and confidence extracted from JSON files
+*_words.csv are words with start, stop timestamps extracted from JSON files
+*_pos.csv are words with POS tagged with Stanford POS tagger
